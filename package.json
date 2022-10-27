@@ -1,7 +1,5 @@
 {
-  "dependencies": {},
-  "peerDependencies": {
-  },
+  "peerDependencies": {},
   "deprecated": false,
   "description": "Social Signin with Twitter",
   "engines": {
@@ -19,10 +17,18 @@
     "authentication"
   ],
   "license": "MIT",
-  "name": "daba-react-native-twitter-signin",
+  "name": "@dabafinance/daba-react-native-twitter-signin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dabafinance/daba-react-native-twitter-signin"
+    "url": "git+https://github.com/dabafinance/daba-react-native-twitter-signin.git"
   },
-  "version": "1.2.1"
+  "version": "1.2.1",
+  "bugs": {
+    "url": "https://github.com/dabafinance/daba-react-native-twitter-signin/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daba-faith"
 }
